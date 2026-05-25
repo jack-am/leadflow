@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Marcus Webb",
+    "email": "marcus.webb@gmail.com",
+    "phone": "+1 (626) 555-0199",
+    "source": "website_form",
+    "message": "Hi, my crown cracked last night and it's REALLY painful. Any chance someone can see me today or tomorrow?? | Following up \u2014 the pain is getting worse, hoping to get in asap",
+    "category": "New Booking",
+    "priority": "High",
+    "owner": "Front Desk",
+    "completeness": 100,
+    "email_valid": true,
+    "touchpoints": 2,
+    "flags": []
+  },
+  {
+    "name": "Dana Okafor",
+    "email": "dana@velahealth.io",
+    "phone": "+1 (415) 555-2231",
+    "source": "referral",
+    "message": "Hello \u2014 we're a clinic group looking to order ~50 units monthly. Could you send pricing and bulk terms? | Re: bulk order \u2014 also need to know your lead time and whether you ship to multiple locations.",
+    "category": "Sales Inquiry",
+    "priority": "High",
+    "owner": "Sales \u2014 Dana",
+    "completeness": 100,
+    "email_valid": true,
+    "touchpoints": 2,
+    "flags": []
+  },
+  {
+    "name": "Priya",
+    "email": "",
+    "phone": "+1 (415) 555-9087",
+    "source": "website_form",
+    "message": "I was charged twice on invoice #4471 last week and the second charge hasn't been refunded. Please look into this.",
+    "category": "Billing",
+    "priority": "High",
+    "owner": "Billing",
+    "completeness": 70,
+    "email_valid": false,
+    "touchpoints": 1,
+    "flags": []
+  },
+  {
+    "name": "Tara B",
+    "email": "tara.brooks@gmail",
+    "phone": "+1 (206) 555-0177",
+    "source": "referral",
+    "message": "My dad needs an emergency extraction, he's in a lot of pain and we're new patients",
+    "category": "New Booking",
+    "priority": "High",
+    "owner": "Front Desk",
+    "completeness": 70,
+    "email_valid": false,
+    "touchpoints": 1,
+    "flags": [
+      "invalid-email"
+    ]
+  },
+  {
+    "name": "Jordan Lee",
+    "email": "jordan_lee@protonmail.com",
+    "phone": "+1 (206) 555-0144",
+    "source": "website_form",
+    "message": "Interested in Invisalign. What's the consultation process and rough cost?",
+    "category": "Sales Inquiry",
+    "priority": "Medium",
+    "owner": "Sales \u2014 Dana",
+    "completeness": 100,
+    "email_valid": true,
+    "touchpoints": 1,
+    "flags": []
+  },
+  {
+    "name": "Kim Nguyen",
+    "email": "kim.nguyen@gmail.com",
+    "phone": "+1 (206) 555-0190",
+    "source": "website_form",
+    "message": "Do you accept Delta Dental PPO? Trying to book a routine checkup for next week.",
+    "category": "New Booking",
+    "priority": "Medium",
+    "owner": "Front Desk",
+    "completeness": 100,
+    "email_valid": true,
+    "touchpoints": 1,
+    "flags": []
+  },
+  {
+    "name": "Sam Rivera",
+    "email": "sam.rivera@outlook.com",
+    "phone": "",
+    "source": "instagram_dm",
+    "message": "are you open saturdays? do i need an appt for a first cleaning",
+    "category": "New Booking",
+    "priority": "Medium",
+    "owner": "Front Desk",
+    "completeness": 70,
+    "email_valid": true,
+    "touchpoints": 1,
+    "flags": []
+  },
+  {
+    "name": "Chris P.",
+    "email": "chrisp@",
+    "phone": "+1 (509) 555-0123",
+    "source": "instagram_dm",
+    "message": "hey do u do teeth whitening and how much $$",
+    "category": "Sales Inquiry",
+    "priority": "Medium",
+    "owner": "Sales \u2014 Dana",
+    "completeness": 70,
+    "email_valid": false,
+    "touchpoints": 1,
+    "flags": [
+      "invalid-email"
+    ]
+  },
+  {
+    "name": "",
+    "email": "winnings@cryptobonus.biz",
+    "phone": "",
+    "source": "email",
+    "message": "CONGRATULATIONS!!! You have been SELECTED for a guaranteed 300% crypto return. Click now to claim your BTC bonus!!!",
+    "category": "Spam",
+    "priority": "Low",
+    "owner": "Auto-archive",
+    "completeness": 40,
+    "email_valid": true,
+    "touchpoints": 1,
+    "flags": []
+  }
+]
