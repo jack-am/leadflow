@@ -1,0 +1,10 @@
+priority,category,owner,name,email,phone,completeness,touchpoints,source,flags,message
+High,New Booking,Front Desk,Marcus Webb,marcus.webb@gmail.com,+1 (626) 555-0199,100,2,website_form,,"Hi, my crown cracked last night and it's REALLY painful. Any chance someone can see me today or tomorrow?? | Following up — the pain is getting worse, hoping to get in asap"
+High,Sales Inquiry,Sales — Dana,Dana Okafor,dana@velahealth.io,+1 (415) 555-2231,100,2,referral,,Hello — we're a clinic group looking to order ~50 units monthly. Could you send pricing and bulk terms? | Re: bulk order — also need to know your lead time and whether you ship to multiple locations.
+High,Billing,Billing,Priya,,+1 (415) 555-9087,70,1,website_form,,I was charged twice on invoice #4471 last week and the second charge hasn't been refunded. Please look into this.
+High,New Booking,Front Desk,Tara B,tara.brooks@gmail,+1 (206) 555-0177,70,1,referral,invalid-email,"My dad needs an emergency extraction, he's in a lot of pain and we're new patients"
+Medium,Sales Inquiry,Sales — Dana,Jordan Lee,jordan_lee@protonmail.com,+1 (206) 555-0144,100,1,website_form,,Interested in Invisalign. What's the consultation process and rough cost?
+Medium,New Booking,Front Desk,Kim Nguyen,kim.nguyen@gmail.com,+1 (206) 555-0190,100,1,website_form,,Do you accept Delta Dental PPO? Trying to book a routine checkup for next week.
+Medium,New Booking,Front Desk,Sam Rivera,sam.rivera@outlook.com,,70,1,instagram_dm,,are you open saturdays? do i need an appt for a first cleaning
+Medium,Sales Inquiry,Sales — Dana,Chris P.,chrisp@,+1 (509) 555-0123,70,1,instagram_dm,invalid-email,hey do u do teeth whitening and how much $$
+Low,Spam,Auto-archive,,winnings@cryptobonus.biz,,40,1,email,,CONGRATULATIONS!!! You have been SELECTED for a guaranteed 300% crypto return. Click now to claim your BTC bonus!!!
