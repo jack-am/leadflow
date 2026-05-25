@@ -1,0 +1,11 @@
+# LeadFlow dependencies
+#
+# CORE PIPELINE (leadflow.py): no third-party packages required.
+#   Runs on a clean Python 3.9+ install using only the standard library.
+#
+# OPTIONAL — only needed for the live webhook (webhook_server.py):
+flask>=3.0
+#
+# OPTIONAL — the AI classifier (ai_classifier.py) uses the standard library
+# (urllib) for its HTTP call, so it needs NO extra install — only an API key:
+#   export OPENAI_API_KEY="sk-..."
